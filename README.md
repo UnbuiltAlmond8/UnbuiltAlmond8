@@ -21,7 +21,9 @@ I am UnbuiltAlmond8, a male software developer who is interested in astronomy, t
 
 ## **Where you can find me**
 
-You can find me on the majority of known websites including: Websim.ai, Wildwest.gg, Ideogram.ai, Character.AI, YouTube, Instagram, KlingAI, Steam, Roblox, Twitch, GitHub, Scratch. Newgrounds, HuggingFace, Odysee, JigsawPlanet, Reddit, Wayback Machine, Facebook, DeviantArt, RoomStyler, Discord, Wikipedia, X (formerly Twitter), Bluesky, NameMC, GitLab, CapCut, Snapchat, Bitly, Eventbrite, Grabify, Socialblade, TikTok, and Minecraft.
+You can find me on the majority of known websites including: Websim.ai, Wildwest.gg, Ideogram.ai, Character.AI, YouTube, Instagram, KlingAI, Steam, Roblox, Twitch, GitHub, Scratch. Newgrounds, HuggingFace, Odysee, JigsawPlanet, Reddit, Wayback Machine, DeviantArt, RoomStyler, Discord, Wikipedia, X (formerly Twitter), Bluesky, NameMC, GitLab, CapCut, Snapchat, Bitly, Eventbrite, Grabify, Socialblade, TikTok, and Minecraft.
+
+The usernames on these websites is UnbuiltAlmond8. This is NOT an exhaustive list. If in doubt, please ask me on any of the platforms listed here. I do NOT have any account on any NSFW website, please report any impersonators there. <!-- Note however that some of these platforms may use the old username DastardlyCop268, but that's an indicator that I don't use that site anymore if no UnbuiltAlmond8 account exists there. -->
 
 ## **Statistics**
 
