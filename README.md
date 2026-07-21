@@ -11,7 +11,7 @@ I am UnbuiltAlmond8, a software developer who is interested in astronomy, techno
 - DosndysWorld - A terminal-based game based off of Dandy's World. Simplistic, but configurable. Not affliated with Qwel.
 - ProtonOS - A Scratch OS with various features and has its own terms of service that is integrated across my entire project ecosystem, extending to Eima Jolum and my friend Logy. Includes proprietary AlmondGuard anti-bot system.
 - JolumOS - The operating system for Eima Jolum, based on ProtonOS.
-- Story of Eima Jolum - A 72 page long book about Eima Jolum. Available for free and open source on Scribd and as a direct download on Eima Jolum's website (see @EimaJolum for details).
+- Story of Eima Jolum - A 72 page long book about Eima Jolum. Available for free and open source on Scribd and as a direct download on Eima Jolum's website (see [@EimaJolum](https://github.com/EimaJolum) for details).
 - UnbuiltAlmond8's API - My own API, hosted on Cloudflare Workers. See the Google Sites for the URL and other projects.
 
 ## **Contributions**
