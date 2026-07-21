@@ -3,7 +3,7 @@ name: Update README cards
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "55 2 * * *"
 
 permissions:
   contents: write
