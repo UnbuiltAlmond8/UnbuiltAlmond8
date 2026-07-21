@@ -1,6 +1,6 @@
 ## **Who I am**
 
-I am UnbuiltAlmond8, a software developer who is interested in astronomy, technology, AI and programming in general (including some other categories, but these are the majority of my life). My age is not to be shared with anyone, but I have been working on many kinds of projects including the ones seen here, such as DosndysWorld, PHPKoboDeobfuscator, and LingojamTranslatorAPI, but sometimes I stop working on some of them for a long while due to several life-related changes. I've been studying the Milky Way, Python, JavaScript, anti-bot systems, etc.
+I am UnbuiltAlmond8, a male software developer who is interested in astronomy, technology, AI and programming in general (including some other categories, but these are the majority of my life). My age is not to be shared with anyone, but I have been working on many kinds of projects including the ones seen here, such as DosndysWorld, PHPKoboDeobfuscator, and LingojamTranslatorAPI, but sometimes I stop working on some of them for a long while due to several life-related changes. I've been studying the Milky Way, Python, JavaScript, anti-bot systems (such as BotGuard and Cloudflare Turnstile, but do not expect publication of research results), and other topics.
 
 ## **My projects**
 
